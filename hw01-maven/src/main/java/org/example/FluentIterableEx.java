@@ -23,6 +23,7 @@ public class FluentIterableEx {
                 .toList();
 
         System.out.println(results);
+        System.out.println("Its all right!");
     }
 }
 
